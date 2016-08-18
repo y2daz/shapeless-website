@@ -528,7 +528,7 @@ img {
 	margin: 0 auto;
 	max-width: 960px;
 	overflow: hidden;
-	padding: 98px 0 146px;
+	padding: 98px 0 0px;
 }
 #body div.singlepost {
 	margin: 0 auto;
